@@ -1,0 +1,1 @@
+export { default as getProductsPagenationQuery } from "./get-products-pagination"
